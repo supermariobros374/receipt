@@ -1,2 +1,0 @@
-/bin/ar qc online_get_lib.so  CMakeFiles/online_get_lib.dir/online_get.cpp.o
-/bin/ranlib online_get_lib.so

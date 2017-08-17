@@ -1,8 +1,0 @@
-/home/thomas/git/check_receipt/CMakeFiles/rebuild_cache.dir
-/home/thomas/git/check_receipt/CMakeFiles/edit_cache.dir
-/home/thomas/git/check_receipt/lib/CMakeFiles/rebuild_cache.dir
-/home/thomas/git/check_receipt/lib/CMakeFiles/online_get_lib.dir
-/home/thomas/git/check_receipt/lib/CMakeFiles/edit_cache.dir
-/home/thomas/git/check_receipt/src/CMakeFiles/rebuild_cache.dir
-/home/thomas/git/check_receipt/src/CMakeFiles/receipt.dir
-/home/thomas/git/check_receipt/src/CMakeFiles/edit_cache.dir

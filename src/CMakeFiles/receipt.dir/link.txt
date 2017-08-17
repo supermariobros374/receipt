@@ -1,1 +1,0 @@
-/bin/c++     CMakeFiles/receipt.dir/main.cpp.o  -o receipt 
