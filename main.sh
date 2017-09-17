@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "使用Python或原生方式取得清單?"
 read -p "(P)ython/(G)eneric : " confirm
+
 if [[ ${confirm} == 'G' ]] ; then
   echo "獲取清單中..."
   curl -Ls http://invoice.etax.nat.gov.tw/ > ./fetch/source.html
@@ -13,6 +14,7 @@ if [[ ${confirm} == 'G' ]] ; then
   cat ./fetch/fetch_head >> ./fetch/fetch_exp_head
   mv ./fetch/fetch_exp_head ./fetch/fetch_result.txt
   ./receipt
+
 elif [[ ${confirm} == 'P' ]] ; then
   python2 invoice.py > ./fetch/fetch_result_py.txt
   ./receipt
