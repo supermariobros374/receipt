@@ -6,4 +6,4 @@ TODO:
 1. Determine to use CMake or Autotools(Check, we use CMake :) )
 ~2. Makefile~
 
-3. src update
+~3. src update~
