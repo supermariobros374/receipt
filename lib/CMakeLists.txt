@@ -7,8 +7,8 @@ add_library(compare_serial_lib compare_serial.cpp)
 set_target_properties(online_get_lib
         PROPERTIES PREFIX ""
         SUFFIX ".a"
-                                  )
+        )
 set_target_properties(compare_serial_lib
         PROPERTIES PREFIX ""
         SUFFIX ".a"
-                                  )
+        )
